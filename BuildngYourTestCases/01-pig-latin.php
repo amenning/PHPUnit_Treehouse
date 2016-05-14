@@ -14,7 +14,7 @@ class PigLatinTest extends PHPUnit_Framework_TestCase
 		* If I pass that word to my PigLatin converter
 		* I get back the correctly transformed version
 		*/
-		$this->assertTrue(false);
+	$this->assertTrue(false);
 	}
 }
 ?>
