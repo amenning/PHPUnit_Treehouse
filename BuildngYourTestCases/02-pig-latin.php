@@ -7,7 +7,7 @@ class PigLatinTest extends PHPUnit_Framework_TestCase
 	/**
 	* @test
 	*/
-	public function englishToPiglatinWorksCorrectly()
+	public function englishToPigLatinWorksCorrectly()
 	{
 		/**
 		* Given I have an english word
